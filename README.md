@@ -12,10 +12,12 @@ The primary goal of this course is to:
 
 * Teach students the basic elements of programming: how to break problems down and how to build solutions up.
 * Endow students with sufficient skill to tackle basic programming problems on their own.
+* Help students learn what is _possible_ to do with programming. Even if they don't know the specifics, they should be able to recognize which problems are a good fit for a program.
 
 The following are non-goals:
 
 * Classic Computer Science knowledge is not included. Topics such as algorithm analysis, data storage design, multithreading, operating system design, and hardware architecture details are all important for Computer Scientists to know, but are not within scope of this course.
+* APIs and language details. There is no need to teach the specifics of any API. Details are for Google.
 
 ## Notes on JavaScript
 
