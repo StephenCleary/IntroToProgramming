@@ -1,4 +1,4 @@
-# About Computers and Programming
+# About Computers
 
 Computers are everywhere!
 
@@ -21,4 +21,8 @@ You've probably also seen TV shows and movies where the nerd stares at a string 
 It is true that computers only understand zeroes and ones. All storage on the hard drive is a series of zeroes and ones. All storage in the memory is a series of zeroes and ones. And when the CPU executes its instructions, those instructions are encoded as a series of zeroes and ones. It is perfectly true that computers only understand zeroes and ones.
 
 However, people do not work well with just zeroes and ones. If programmers had to give the computer a bunch of zeroes and ones, they would all quit. That would just be too hard to do!
+
+# About Programming
+
+
 
