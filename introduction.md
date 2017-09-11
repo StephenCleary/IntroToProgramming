@@ -8,10 +8,10 @@ Computers are just _machines_. They cannot do anything by themselves; they can o
 
 As a **programmer**, you give the computer programs, and the computer obeys those instructions.
 
-Most computers have the same basic structure: CPU, memory, and persistent storage.
+Most computers have the same basic structure: CPU, transient storage, and persistent storage.
 
 * The **CPU** \(Central Processing Unit\) is the brain of the computer. It does the actual **executing** \(obeying\) of the instructions.
-* Memory \(commonly called **RAM**, short for Random Access Memory\) is the temporary storage space that the CPU normally uses to store its data. RAM is very fast, but it has a drawback: the data is all erased whenever the computer turns off.
+* Transient storage \(commonly called **memory** or **RAM**, short for Random Access Memory\) is the temporary storage space that the CPU normally uses to store its data. RAM is very fast, but it has a drawback: the data is all erased whenever the computer turns off.
 * Persistent storage \(usually a hard drive or flash drive\) is the storage space where long-term data is kept. It is much slower than RAM, but the data in persistent storage is not erased when the computer turns off.
 
 You have probably heard that computers are all about **zeroes** and **ones**. This is completely true.
