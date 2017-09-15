@@ -32,5 +32,5 @@ The important takeaway here is that _programming languages are for people_. They
 
 There are many programming languages in the world. Some languages are better for some problems, and other languages are better for other problems. The language we're using in this course is **JavaScript**. This is important to know because when you look for solutions online \(which you will be doing\), you should include "JavaScript" as part of your search, so that you'll find solutions in the right language.
 
-> #### Note::You use JavaScript
+> #### Note::JavaScript, not Java
 > There is also a programming language named Java, but you are not learning *Java*; you are learning *JavaScript*. The names are similar, but the languages are very different.
