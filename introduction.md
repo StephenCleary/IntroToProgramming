@@ -30,5 +30,7 @@ A programming language is a way to write programs that is understandable by mort
 
 The important takeaway here is that _programming languages are for people_. They're not for computers. Computers just care that it gets zeroes and ones; it doesn't care how the zeroes and ones get to it. The entire purpose of programming languages is that programmers can understand their programs, and that _other_ programmers can also understand that program.
 
-There are many programming languages in the world. 
+There are many programming languages in the world. Some languages are better for some problems, and other languages are better for other problems. The language we're using in this course is **JavaScript**. This is important to know because when you look for solutions online \(which you will be doing\), you should include "JavaScript" as part of your search, so that you'll find solutions in the right language.
+
+
 
