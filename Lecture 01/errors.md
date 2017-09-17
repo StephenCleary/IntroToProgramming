@@ -19,8 +19,3 @@ You should see an error. Perhaps it was a `ReferenceError`, or a `SyntaxError`, 
 This first exercise is to illustrate one important point: no matter how much you mess up your program, you can't really do an permanent damage. You didn't break your computer or the Internet. In fact, Chrome just spit out an error and gave you another prompt \(`>`\). It's just fine, waiting for your next command. Modern computers have all kinds of safeguard built-in to them, and it is very difficult to do any real damage with the programs we'll be writing in this course!
 
 So, don't be afraid of errors! You've already seen some, and they won't hurt you. In fact, errors happen _all the time_ when programming! Even the best programmers in the world consistently make mistakes.
-
-# Hello, World!
-
-
-
