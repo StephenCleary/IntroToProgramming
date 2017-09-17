@@ -2,9 +2,9 @@
 
 * [Meta](README.md)
 * [Lecturer Meta](lecturer-meta.md)
-* Lecture 01
-  * [About Computers](Lecture 01/about-computers.md)
-  * [About Programming](Lecture 01/about-programming.md)
-  * [Errors](Lecture 01/errors.md)
-  * Your First Program
+* Lecture 1
+  * [About Computers](lecture-1/about-computers.md)
+  * [About Programming](lecture-1/about-programming.md)
+  * [Errors](lecture-1/errors.md)
+  * [Your First Program](lecture-1/your-first-program.md)
 
