@@ -41,6 +41,7 @@ If these topics do come up \(i.e., students notice odd behavior\), then I recomm
 ### Language-Specific Notes
 
 * Always use `let`. Never use `var` or `const`.
+* Always use `===` and `!==`. Never use `==` or `!=`.
 * Avoid `undefined`.
 
 
