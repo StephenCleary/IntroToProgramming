@@ -8,3 +8,5 @@
   * [Errors](lecture-1/errors.md)
   * [Your First Program](lecture-1/your-first-program.md)
 * [Lecture 2](lecture-2/README.md)
+  * [Variables](lecture-2/variables.md)
+
