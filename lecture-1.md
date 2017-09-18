@@ -1,3 +1,6 @@
-Goals of this first lecture:
+Main lessons:
 
-- Define the common computer terms.
+- Basic computer architecture (CPU, memory, storage).
+- Programming languages are for people.
+- Errors are fine.
+- You can command a computer, and it will obey you.
